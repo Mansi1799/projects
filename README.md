@@ -1,4 +1,5 @@
 📊 Nutrabay Sales Performance Dashboard (Power BI Project)
+
 📁 Description:
 This project presents an interactive Power BI dashboard designed for Nutrabay — a D2C brand in the whey protein and fitness supplement space. The dashboard helps business teams monitor key sales metrics, customer behavior, product performance, and geographic insights using a dummy e-commerce dataset.
 
